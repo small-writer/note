@@ -77,7 +77,7 @@ O（n) :如果一个算法的时间复杂度为O（n) ，则称这个算法具�
 
 
 
-![](C:\Users\LCWX\Desktop\1586049886(1).png)
+![](note/complexity/p.png)
 
 
 
